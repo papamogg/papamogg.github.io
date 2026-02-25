@@ -8,26 +8,26 @@ We believe your business is your business, which is why we've designed this App 
 Unlike most apps, we do not use external servers or cloud storage.
 ## Local Storage Only
 All data you create, input, or save within the App is stored exclusively on your device's internal storage.
-# No Data Transmission
+## No Data Transmission
 We do not transmit your data to our servers, third-party partners, or any other external entities.
-# Your Control
+## Your Control
 Since your data stays on your device, deleting the App will permanently delete all data associated with it, unless you have manually backed up your device elsewhere.
 
 # 2. Camera & Photo Library Access
 The App requires access to your device's camera to function. Here is how that access is used:
-# Purpose
+## Purpose
 The camera is used solely to capture images for storage within the App's interface.
-# Processing
+## Processing
 All image processing happens locally on your device.
-# Privacy
+## Privacy
 We cannot see, access, or share the photos you take. They remain under your total control.
 
 # 3. Third-Party Access
-# No Analytics
+## No Analytics
 We do not use third-party tracking or analytics software (like Google Analytics or Flurry).
-# No Ads
+## No Ads
 We do not share any identifiers with advertisers.
-# No Sale of Data
+## No Sale of Data
 Because we do not collect your data, we have nothing to sell to third parties.
 
 # 4. Security
@@ -38,11 +38,11 @@ We may update this policy from time to time. However, our core philosophy remain
 
 # 6. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
-# Redacting Personal Information
+## Redacting Personal Information
 Before taking or storing photos of documents (such as vehicle titles, registration, or maintenance receipts), we strongly recommend redacting or "blacking out" sensitive personal details. This includes your home address, social security numbers, and financial information.
-# Transfer of Ownership
+## Transfer of Ownership
 If you intend to show the App to a potential buyer or transfer your vehicle to another person, remember that any images you have stored will be visible to them if they have access to your device.
-# Sanitize Before Sale
+## Sanitize Before Sale
 Before handing over any records, please review your stored images and delete any that contain information you do not wish to share with the new owner.
 
 # 7. Contact Us
