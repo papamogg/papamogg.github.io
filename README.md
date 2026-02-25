@@ -1,1 +1,1 @@
-# SlimeSpec App Privacy Policy
+# SlimeSpec-App-Privacy-Policy
