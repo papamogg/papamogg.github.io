@@ -1,1 +1,1 @@
-# papamogg.github.io
+SlimeSpec App Privacy Policy
