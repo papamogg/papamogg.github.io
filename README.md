@@ -6,7 +6,7 @@ We believe your business is your business, which is why we've designed this App 
 
 # 1. Data Storage & Ownership
 Unlike most apps, we do not use external servers or cloud storage.
-# Local Storage Only
+## Local Storage Only
 All data you create, input, or save within the App is stored exclusively on your device's internal storage.
 # No Data Transmission
 We do not transmit your data to our servers, third-party partners, or any other external entities.
